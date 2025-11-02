@@ -1,4 +1,7 @@
 #include <stdbool.h>
+
+#include "quickSort.h"
+
 void swap(int* a, int* b, bool needToShow ,void (*render)(int* x, int* y, bool show )) {
     int temp = *b;
     *b = *a;

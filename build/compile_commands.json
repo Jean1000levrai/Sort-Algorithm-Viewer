@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/build",
+  "command": "/usr/bin/cc  -I/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/include -std=c11 -arch arm64 -F/Library  -F / -o CMakeFiles/application.dir/src/application.c.o -c /Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/application.c",
+  "file": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/application.c",
+  "output": "CMakeFiles/application.dir/src/application.c.o"
+},
+{
+  "directory": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/build",
+  "command": "/usr/bin/cc  -I/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/include -std=c11 -arch arm64 -F/Library  -F / -o CMakeFiles/application.dir/src/arrayViewer.c.o -c /Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/arrayViewer.c",
+  "file": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/arrayViewer.c",
+  "output": "CMakeFiles/application.dir/src/arrayViewer.c.o"
+},
+{
+  "directory": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/build",
+  "command": "/usr/bin/cc  -I/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/include -std=c11 -arch arm64 -F/Library  -F / -o CMakeFiles/application.dir/src/button.c.o -c /Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/button.c",
+  "file": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/button.c",
+  "output": "CMakeFiles/application.dir/src/button.c.o"
+},
+{
+  "directory": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/build",
+  "command": "/usr/bin/cc  -I/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/include -std=c11 -arch arm64 -F/Library  -F / -o CMakeFiles/application.dir/src/insertionSort.c.o -c /Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/insertionSort.c",
+  "file": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/insertionSort.c",
+  "output": "CMakeFiles/application.dir/src/insertionSort.c.o"
+},
+{
+  "directory": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/build",
+  "command": "/usr/bin/cc  -I/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/include -std=c11 -arch arm64 -F/Library  -F / -o CMakeFiles/application.dir/src/quickSort.c.o -c /Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/quickSort.c",
+  "file": "/Users/jeansalomon/Documents/projects/sort_algo-skyleeze/src/quickSort.c",
+  "output": "CMakeFiles/application.dir/src/quickSort.c.o"
+}
+]

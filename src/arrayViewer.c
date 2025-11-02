@@ -1,9 +1,7 @@
-#include "../include/application.h"
-#include "../include/insertionSort.h"
-#include "../include/quickSort.h"
-#include "../include/button.h"
-
-
+#include "application.h"
+#include "insertionSort.h"
+#include "quickSort.h"
+#include "button.h"
 
 #include <SDL3/SDL.h>
 #include "time.h"

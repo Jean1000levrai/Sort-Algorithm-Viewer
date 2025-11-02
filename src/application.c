@@ -1,8 +1,8 @@
 #include <SDL3/SDL_events.h>
 #include <stdbool.h>
-
-
 #include <SDL3/SDL.h>
+
+#include "application.h"
 
 
 typedef struct {

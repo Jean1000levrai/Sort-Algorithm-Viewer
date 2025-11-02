@@ -3,6 +3,8 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
+#include "button.h"
+
 typedef struct {
     char* name;
     int x,y,w,h;

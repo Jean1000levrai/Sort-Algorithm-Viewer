@@ -1,3 +1,5 @@
+#include "insertionSort.h"
+
 void triInsertion(int* tab, int taille, void (*render)()) {
     int j;
     for(int i = 1; i<taille;i++) {
